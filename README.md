@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/webFabioH">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webFabioH&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webFabioH&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" width="550rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webFabioH&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -18,6 +18,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />     
 </div>
+ 
+<br></br>
   
 <div>
 ![Snake animation](https://github.com/webFabioH/webFabioH/blob/output/github-contribution-grid-snake.svg)  
