@@ -21,6 +21,6 @@
  
 <br></br>
   
-<div>
+
 ![Snake animation](https://github.com/webFabioH/webFabioH/blob/output/github-contribution-grid-snake.svg)  
-</div>
+
