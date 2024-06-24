@@ -1,10 +1,3 @@
-### Oi! Eu sou Fabio 👋
-
-- 🔭 Trabalhando com Front-End 
-- 🌱 Estudando Front-End e Back-End
-- ⚡ Fun fact: Ornitorrincos não possuem estômago.
-
-<br></br>
 
 <div align="center">
   <a href="https://github.com/webFabioH">
